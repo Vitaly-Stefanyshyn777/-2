@@ -40,7 +40,37 @@ body {
   .contacts:focus {
     color: #404bbf;
   }
-  
+  .page-upe{
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+
+}
+.page-upe {
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 8px;
+  }
+
+.section-uper {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-uper{
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 8px;
+}
+
+
    .contacts-info {
     font-weight: 400;
     font-size: 16px;
@@ -81,16 +111,28 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
   }
-  
-  .section-second {
+  .section-lowe {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
   }
+  .section-second {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+}
   
   .section-third {
+    font-family: "Raleway", sans-serif;
     color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
@@ -108,13 +150,27 @@ body {
     background-color: #ffffff;
   }
   
+  .page-lower {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    display: flex;
+  }
   .page {
     color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
   }
+
   
   .menu-list {
     display: block;
@@ -259,7 +315,8 @@ body {
     display: flex;
     justify-content: space-around;
     gap: 24px;
-  }
+   
+}
   
   .team {
     text-align: center;
@@ -329,10 +386,11 @@ body {
   
   .job-status {
     padding: 32px 0;
-  }
+    
+}
   
   .section-second {
-    
+    font-family: "Raleway", sans-serif;
     margin-bottom: 8px;
   }
   
