@@ -121,7 +121,8 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
-  }
+  
+}
   .section-second {
     font-weight: 500;
     font-size: 20px;
@@ -380,8 +381,8 @@ body {
   }
   
   .section-third {
-    margin-bottom: 72px;
-  }
+   margin-bottom: 72px;
+}
   
   
   .section-color {
@@ -409,7 +410,8 @@ body {
   
   .page-footer {
     padding: 100px 0;
-  }
+   
+}
   
   .logo-bottom {
     font-family: "Raleway", sans-serif;
@@ -420,8 +422,9 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
-    margin-bottom: 8px;
-  }
+    
+    margin-bottom: 16px;
+}
   .menu-list-first {
     padding: 24px 0;
     font-weight: 500;
